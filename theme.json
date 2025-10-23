@@ -1,0 +1,145 @@
+{
+  "panel": {
+    "colors": {
+      "dark_bg": "#00000000"
+    },
+    "misc": {
+      "border_width": "0"
+    }
+  },
+  "#edit_screen": {
+    "colors": {
+      "dark_bg": "#222222aa"
+    }
+  },
+  "button": {
+    "colors": {
+      "normal_border": "White",
+      "normal_bg": "#3477ad",
+      "normal_text": "White",
+      "hovered_bg": "#276291"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10",
+      "border_width": "2"
+    },
+    "font": {
+      "name": "main_font",
+      "regular_path": "main_font.ttf",
+      "size": "18"
+    }
+  },
+  "#back_button": {
+    "colors": {
+      "normal_bg": "#db1616",
+      "hovered_bg": "#ba2020"
+    }
+  },
+  "#hide_button": {
+    "font": {
+      "name": "main_font",
+      "size": "12"
+    }
+  },
+  "#color_button": {
+    "colors": {
+      "normal_bg": "#ffffff",
+      "hovered_bg": "#ebebeb",
+      "normal_border": "#fff"
+    }
+  },
+  "#ball_color_button": {
+    "colors": {
+      "normal_bg": "#ffffff",
+      "hovered_bg": "#ebebeb",
+      "normal_border": "#fff"
+    }
+  },
+  "text_box": {
+    "colors": {
+      "normal_border": "White",
+      "dark_bg": "#276291",
+      "normal_text": "White"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10",
+      "border_width": "2"
+    },
+    "font": {
+      "name": "main_font",
+      "size": "19"
+    }
+  },
+  "#coords": {
+    "colors": {
+      "dark_bg": "#222"
+    },
+    "font": {
+      "name": "main_font",
+      "size": "10"
+    }
+  },
+  "label": {
+    "colors": {
+      "normal_text": "White"
+    },
+    "misc": {
+      "text_horiz_alignment": "left"
+    },
+    "font": {
+      "name": "main_font",
+      "size": "16"
+    }
+  },
+  "#caption": {
+    "font": {
+      "name": "main_font",
+      "size": "12"
+    }
+  },
+  "#symbol": {
+    "font": {
+      "name": "timesnewroman",
+      "size": "16"
+    }
+  },
+  "drop_down_menu": {
+    "colors": {
+      "normal_border": "White"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10",
+      "border_width": "4"
+    }
+  },
+  "text_entry_line": {
+    "colors": {
+      "dark_bg": "#000",
+      "normal_text": "White",
+      "normal_border": "White"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10",
+      "border_width": "2"
+    },
+    "font": {
+      "name": "main_font",
+      "size": "14"
+    }
+  },
+  "window": {
+    "colors": {
+      "normal_border": "White"
+    },
+    "misc": {
+      "shape": "rounded_rectangle",
+      "shape_corner_radius": "10",
+      "border_width": "2",
+      "enable_close_button": "0"
+    }
+  }
+}
